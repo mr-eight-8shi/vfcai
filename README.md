@@ -74,7 +74,7 @@ Evaluation results of the classification task using the unified pipeline.
 | **Fashion-MNIST** (Classes 10–19) | **92.00%** |
 
 <img width="786" height="244" alt="image" src="https://github.com/user-attachments/assets/562f6f9d-23d1-410a-8495-697f9047ac73" />
-
+<img width="887" height="622" alt="image" src="https://github.com/user-attachments/assets/2c821c37-4ce7-49a8-8b6e-e9394a024ed9" />
 ---
 
 ## 🔍 2-in-1 Function Reconstruction & Visualization
@@ -144,7 +144,6 @@ vfcai init
 本システムは、周辺コンテキスト ($9 \times 9$) を考慮しながら、中央局所領域 ($3 \times 3$) ごとの線形関数パラメータ（境界ベクトル）群へと画像を変換します。
 
 <img width="4017" height="1441" alt="image" src="https://github.com/user-attachments/assets/4b238738-2512-4b85-ab2e-79e6d87b5811" />
-<img width="887" height="622" alt="image" src="https://github.com/user-attachments/assets/2c821c37-4ce7-49a8-8b6e-e9394a024ed9" />
 
 ---
 
@@ -214,7 +213,7 @@ $$f(x, y) = dx \cdot x + dy \cdot y + \text{offset}$$
 | **Fashion-MNIST** (Classes 10–19) | **92.00%** |
 
 <img width="786" height="244" alt="image" src="https://github.com/user-attachments/assets/562f6f9d-23d1-410a-8495-697f9047ac73" />
-
+<img width="887" height="622" alt="image" src="https://github.com/user-attachments/assets/2c821c37-4ce7-49a8-8b6e-e9394a024ed9" />
 ---
 
 ## 🔍 2-in-1 関数再構築と可視化
@@ -222,7 +221,6 @@ $$f(x, y) = dx \cdot x + dy \cdot y + \text{offset}$$
 ビジュアライザーパイプライン (`vfcai visual`) により抽出されたベクトル場から、元画像と関数再構築マップ ($\tanh(dx \cdot x + dy \cdot y + \text{offset}) \times \text{presence}$) を対比させた 2-in-1 グリッドを生成します。
 
 <img width="2081" height="897" alt="boundary_visualization_2in1_2" src="https://github.com/user-attachments/assets/b5fcb70b-7732-494f-928f-2239e0e878f7" />
-<img width="887" height="622" alt="image" src="https://github.com/user-attachments/assets/2c821c37-4ce7-49a8-8b6e-e9394a024ed9" />
 
 ---
 
