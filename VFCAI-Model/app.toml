@@ -1,0 +1,4 @@
+[app]
+dataset_dir = "dataset"
+log_dir = "log"
+space_dir = "space"

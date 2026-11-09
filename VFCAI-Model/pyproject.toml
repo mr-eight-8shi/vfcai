@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vfcai"
+version = "0.1.0"
+description = "Boundary Function Space based Image Representation & Classification Architecture."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "scikit-learn",
+    "torch",
+    "torchvision",
+    "tqdm",
+    "pillow",
+]
+
+[project.scripts]
+vfcai = "vfcai.main:cli"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/vfcai"]

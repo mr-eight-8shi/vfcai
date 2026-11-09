@@ -1,0 +1,22 @@
+[
+  { "category": "mnist", "original_id": 0, "name": "MNIST-0" },
+  { "category": "mnist", "original_id": 1, "name": "MNIST-1" },
+  { "category": "mnist", "original_id": 2, "name": "MNIST-2" },
+  { "category": "mnist", "original_id": 3, "name": "MNIST-3" },
+  { "category": "mnist", "original_id": 4, "name": "MNIST-4" },
+  { "category": "mnist", "original_id": 5, "name": "MNIST-5" },
+  { "category": "mnist", "original_id": 6, "name": "MNIST-6" },
+  { "category": "mnist", "original_id": 7, "name": "MNIST-7" },
+  { "category": "mnist", "original_id": 8, "name": "MNIST-8" },
+  { "category": "mnist", "original_id": 9, "name": "MNIST-9" },
+  { "category": "fashion_mnist", "original_id": 0, "name": "Fashion-T-shirt" },
+  { "category": "fashion_mnist", "original_id": 1, "name": "Fashion-Trouser" },
+  { "category": "fashion_mnist", "original_id": 2, "name": "Fashion-Pullover" },
+  { "category": "fashion_mnist", "original_id": 3, "name": "Fashion-Dress" },
+  { "category": "fashion_mnist", "original_id": 4, "name": "Fashion-Coat" },
+  { "category": "fashion_mnist", "original_id": 5, "name": "Fashion-Sandal" },
+  { "category": "fashion_mnist", "original_id": 6, "name": "Fashion-Shirt" },
+  { "category": "fashion_mnist", "original_id": 7, "name": "Fashion-Sneaker" },
+  { "category": "fashion_mnist", "original_id": 8, "name": "Fashion-Bag" },
+  { "category": "fashion_mnist", "original_id": 9, "name": "Fashion-Ankle boot" }
+]
